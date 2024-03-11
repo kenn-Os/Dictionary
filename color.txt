@@ -1,0 +1,35 @@
+#3EB489 - mint green
+#246EE9 - royal blue
+#FF2400 - scarlet red
+#FFCC00 - tangerine yellow
+#FAF5E9 - ivory
+#BAFF39 - yellow-green
+#6E6E6E - dim grey
+#00ABE4 - bright blue
+#00DD00 - lime
+#DDD0C8 - beige
+#323232 - gark grey
+#2272FF - neon blue
+#E1B0AC - cavern pink
+#213F99 - navy blue 
+#C5ADC5 - pastel purple 
+#B2B5E0 - light steel blue
+#01257D - deep navy blue
+#A5A5A5 - charcoal grey
+#00FFFF - electric blue
+#0000FF - dark blue
+#FF00FF - fuchsia
+#800080 - dark violet
+#008000 - dark green
+#000080 - teal
+#008080 - sea green
+#0000CD - medium blue
+#800000 - maroon
+#96C2DB - blue grey
+#0A1828 - dark classic blue
+#178582 - turquoise
+#BFA181 #957C3D - gold
+#1D63FF - prussian blue 
+#FE3A4A - Coral red
+
+
